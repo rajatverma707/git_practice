@@ -2,5 +2,5 @@ class Demo{
 
 public static void main(String[] args){
 
-System.out.println("This is Demo class,a simple java demo class is created");
+System.out.println("This is Demo class...........");
 }
